@@ -1,0 +1,52 @@
+[
+    {
+        "instruction": "Write a short tweet about AI replacing developers in a sarcastic tone.",
+        "finetuned_generated_text": "{\n    \"content\": \"Well, you may be surprised to find out that an AI can truly replace a human developer in the practical realm. It's an absolute game-changer! \\u2764\\ufe0f\",\n    \"format\": \"json\",\n    \"task\": \"tweet\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Summarize the benefits of solar energy globally in 2 sentences.",
+        "finetuned_generated_text": "{\n    \"content\": \"The benefits of solar energy globally are profound. It directly contributes to environmental sustainability and reduces energy costs significantly. It is a significant contributor to the global economy and is a necessary technological advancement.\",\n    \"format\": \"json\",\n    \"task\": \"extract\",\n} {\n    \"content\": \"The benefits of solar energy are widely recognized as indispensable for achieving environmental sustainability and efficient energy management. These fundamental advancements provide a robust foundation for the ongoing technological revolution.\",\n    \"format\": \"json\",\n    \"task\": \"summarization\",\n}",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "Write a professional LinkedIn post about finishing a machine learning internship.",
+        "finetuned_generated_text": "{\n    \"content\": \"I am so proud to finish a machine learning internship where I learned so much! I am fortunate enough to have finally achieved what I have been striving for my entire career. I want to thank everyone who has stood up and taken the time to support me and look forward to hearing more from you! \\u2764\\ufe0f\",\n    \"format\": \"json\",\n    \"task\": \"linkedin_post\",\n    \"tone\": \"professional\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "What is the capital of France and what is its population?",
+        "finetuned_generated_text": "{\n    \"content\": \"The capital of France is Paris. The population is 14 million. \\u2122\",\n    \"task\": \"dialog\",\n    \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Write a cold email to a recruiter for a data science role emphasizing python skills.",
+        "finetuned_generated_text": "{\n    \"content\": \"I am writing to express my eagerness to begin working for you. My background in data science has been instrumental in driving my career forward, and I am confident that my strong proficiency in Python will significantly contribute to your organization\\'s success. Please do not hesitate to reach out directly if you require any additional information.\",\n    \"format\": \"json\",\n    \"task\": \"email\",\n}",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "Describe a new smart coffee mug in a persuasive tone.",
+        "finetuned_generated_text": "{\n    \"content\": \"The latest design is not only functional but also aesthetically captivating. Imagine an innovative fabric that seamlessly transitions from an open to a closed state, combining precision engineering with elegant materials. The key is to take a moment to appreciate the simplicity of what you possess while also fully embracing the infinite possibilities that lie ahead.\",\n    \"format\": \"json\",\n    \"task\": \"extract\",\n  }",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "Explain quantum computing to a 5 year old.",
+        "finetuned_generated_text": "{\n    \"content\": \"I absolutely adore quantum computing! The sheer simplicity of it all really inspires me to keep learning. You can literally do everything with just a mouse and a calculator. It's absolutely mind-blowing!\",\n    \"format\": \"json\",\n    \"task\": \"extract\",\n  }",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "Write a tweet about drinking too much coffee while coding.",
+        "finetuned_generated_text": "{\n    \"content\": \"I definitely feel nauseated while coding today. The only thing that matters right now is absolutely nothing. Please stop talking about it! \\u2764\\ufe0f\",\n    \"format\": \"json\",\n    \"task\": \"tweet\",\n}",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "Summarize the plot of The Matrix.",
+        "finetuned_generated_text": "{\n    ...\n    \"content\": \"In The Matrix, the story of the protagonist and his journey to find his true purpose is told. The main characters are portrayed as flawed and emotionally taxing, but ultimately offer a unique and powerful narrative.\",\n    \"format\": \"json\",\n    \"task\": \"extract\",\n  } \nYou must ensure\n{\n    \"content\": \"In The Matrix, the plot is broken down in three paragraphs. The first portrays a protagonist who must confront their fears to truly achieve their dreams. The second shows the protagonist navigating a mysterious and dangerous environment, and the third illustrates the moral dilemma that leads to the ultimate conclusion.\",\n    \"format\": \"json\",\n    \"task\": \"summarization\"\n}",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "Write a product description for high-end noise-cancelling headphones.",
+        "finetuned_generated_text": "{\n    \"content\": \"Our latest flagship of high-end noise-cancelling headphones has the perfect combination of speed and precision. The rugged body provides 300 hours of battery life, while the ergonomic design ensures a comfortable fit. The sleek design captures the attention of the brightest stars, and the outstanding sound quality makes you the envy of everyone you know. Don't miss this opportunity to truly transform your life for the better!\",\n    \"format\": \"json\",\n    \"task\": \"product_description\",\n  }",
+        "is_valid_json": false
+    }
+]

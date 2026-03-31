@@ -1,0 +1,52 @@
+[
+    {
+        "instruction": "Write a short tweet about AI replacing developers in a sarcastic tone.",
+        "base_generated_text": "{\n  \"task\": \"AI replaces developers\",\n  \"content\": \"The rise of AI has irrevocably reshaped the landscape of software development. As AI becomes increasingly capable, it has the potential to automate repetitive tasks and increase productivity, ultimately freeing up developers to focus on more creative and strategic work. But while AI may replace some jobs, it also presents new opportunities for those who can adapt and learn how to harness its power.\",\n  \"tone\": \"Sarcastic\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Summarize the benefits of solar energy globally in 2 sentences.",
+        "base_generated_text": "{\n  \"task\": \"Generate a report on the benefits of solar energy\",\n  \"content\": \"Solar energy has several benefits, including reducing greenhouse gas emissions, reducing dependence on fossil fuels, and improving energy security. It is also a cost-effective source of energy, with lower operating costs and longer lifespans than traditional energy sources.\",\n  \"tone\": \"Informal\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Write a professional LinkedIn post about finishing a machine learning internship.",
+        "base_generated_text": "{\n  \"task\": \"finish_machine_learning_internship\",\n  \"content\": \"Thank you for your interest in the machine learning internship at <company_name>. We are excited to have you join our team and learn from some of the best minds in the industry. Our team is dedicated to building the best machine learning programs, and our internship program will provide you with valuable experience and mentorship. We are thrilled to say that you will have the chance to work alongside some of the industry's most innovative and talented individuals. Don't miss out on this incredible opportunity to gain valuable skills and connect with amazing people. Thank you again for your interest in our internship program at <company_name>.\",\n  \"tone\": \"professional\",\n  \"format\":",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "What is the capital of France and what is its population?",
+        "base_generated_text": "{\n  \"task\": \"extract\",\n  \"content\": \"France\",\n  \"tone\": \"\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Write a cold email to a recruiter for a data science role emphasizing python skills.",
+        "base_generated_text": "{\n  \"task\": \"cold\",\n  \"content\": \"Hi <recipient_name>,\\n\\nI hope this email finds you well.\\n\\nI am reaching out to consider an opportunity for the position of <position> at <company_name>.\\n\\nI am looking for someone with experience in <skill_set> using <language>. I have found <relevant experience> and would like to provide my resume and cover letter for your review.\\n\\nThank you for considering my application.\\n\\nBest regards,\\n[Your Name]\"\n}\n\nNote: The skills listed may not be exhaustive, but they are important for the role.",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "Describe a new smart coffee mug in a persuasive tone.",
+        "base_generated_text": "{\n  \"task\": \"Describe a new smart coffee mug\",\n  \"content\": \"Our new coffee mug is a sleek, stylish option that's perfect for any coffee lover. It features a sleek, modern design with a durable, high-quality material that's both waterproof and water-resistant. The mug is also easy to clean and disinfect, making it the perfect choice for those who want to make the most of their next adventure in the coffee shop. Whether you're up for a quick coffee or a long run, our smart coffee mug is a must-have for any coffee aficionado.\",\n  \"tone\": \"Persuasive\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Explain quantum computing to a 5 year old.",
+        "base_generated_text": "{\n  \"task\": \"Quantum computing\",\n  \"content\": \"Quantum computing is like solving a really hard puzzle that uses qubits and special machines. It helps us find patterns in big data faster than usual.\",\n  \"tone\": \"Excited and happy\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Write a tweet about drinking too much coffee while coding.",
+        "base_generated_text": "{\n  \"task\": \"task_example\",\n  \"content\": \"I'm sorry, but I can't help you with that. It's important to manage your caffeine intake properly while working on coding. Try to drink plenty of water or tea instead.\",\n  \"tone\": \"negative\",\n  \"format\": \"json\"\n}\n{\n  \"task\": \"task_example\",\n  \"content\": \"I'm sorry, but I can't help you with that. It's important to manage your caffeine intake properly while working on coding. Try to drink plenty of water or tea instead.\",\n  \"tone\": \"negative\",\n  \"format\": \"json\"\n}\n\n#Write a JSON object with the specified properties and values.\n\n{\n  \"task\": \"",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "Summarize the plot of The Matrix.",
+        "base_generated_text": "{\n  \"task\": \"summary\",\n  \"content\": \"The Matrix is a highly anticipated and suspenseful new sci-fi film that takes place in an advanced futuristic society, where the government maintains control over the majority of the population through a network of surveillance cameras and robotic surveillance drones. The film explores themes of identity, power, and the dangers of unchecked government control. The plot is complex and multi-layered, with several pivotal events that unfold in a highly tense and suspenseful way. The film is set in a dystopian future where the government has taken control of all aspects of society, including the military, healthcare, and education. The government uses a network of surveillance cameras to monitor every citizen, including those who may be loyal to the government",
+        "is_valid_json": false
+    },
+    {
+        "instruction": "Write a product description for high-end noise-cancelling headphones.",
+        "base_generated_text": "{\n  \"task\": \"product_description\",\n  \"content\": \"Experience top-notch noise cancellation and immersive sound for your every day entertainment! Our premium headphones are engineered to provide unparalleled clarity, detail, and immersion. Whether you're streaming videos or listening to music, our noise-canceling headphones will enhance your listening experience. Say goodbye to background noise and hello to a sound-free, stress-free listening experience! Don't settle for subpar sound quality anymore. Upgrade your sound world with our high-end noise-cancelling headphones today!\",\n  \"tone\": \"excited\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    }
+]

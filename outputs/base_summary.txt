@@ -1,0 +1,10 @@
+Base Model Inference Summary (Qwen/Qwen2.5-0.5B)
+----------------------------------------
+Total Samples: 10
+Valid JSON Outputs: 6
+JSON Accuracy: 6/10 (60.0%)
+
+Observations:
+- The base model often struggles to follow strict formatting without a few-shot prompt or fine-tuning.
+- We expect this baseline to demonstrate a low JSON validity rate.
+- Common issues include conversational filler (e.g., 'Here is your JSON:') and generated extra text.
