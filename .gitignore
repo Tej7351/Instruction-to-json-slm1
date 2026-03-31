@@ -1,0 +1,7 @@
+checkpoint-*/
+models/
+outputs/
+*.zip
+*.bin
+*.safetensors
+.ipynb_checkpoints/

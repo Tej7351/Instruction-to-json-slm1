@@ -1,0 +1,61 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 230868,
+  "description": "",
+  "download_checksums": {
+    "D:/Internassingment/slm_json_generator/data/train.json": {
+      "num_bytes": 266659,
+      "checksum": null
+    },
+    "D:/Internassingment/slm_json_generator/data/test.json": {
+      "num_bytes": 66912,
+      "checksum": null
+    }
+  },
+  "download_size": 333571,
+  "features": {
+    "messages": {
+      "feature": {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      },
+      "_type": "List"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 564439,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 184611,
+      "num_examples": 458,
+      "dataset_name": "json"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 46257,
+      "num_examples": 115,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

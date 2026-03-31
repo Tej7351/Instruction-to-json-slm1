@@ -1,0 +1,52 @@
+[
+    {
+        "instruction": "Write a short tweet about AI replacing developers in a sarcastic tone.",
+        "finetuned_generated_text": "{\n  \"task\": \"tweet\",\n  \"content\": \"That is right! The latest news is that AI is replacing developers entirely! Sooner or later, we'll all just rely on the computer to do the thinking for us \ud83e\udd19. For now, just go to your favorite coffee shop and enjoy the silence. \ud83d\ude80\",\n  \"tone\": \"sarcastic\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Summarize the benefits of solar energy globally in 2 sentences.",
+        "finetuned_generated_text": "{\n  \"task\": \"summarizing benefits of solar energy globally\",\n  \"content\": \"The benefits of solar energy globally are vast and overwhelmingly positive. It provides a sustainable solution to climate-related issues by significantly reducing greenhouse gas emissions. Advanced technology ensures that the infrastructure can withstand severe weather conditions.\",\n  \"tone\": \"objective\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Write a professional LinkedIn post about finishing a machine learning internship.",
+        "finetuned_generated_text": "{\n  \"task\": \"professional\",\n  \"content\": \"Thank you so much for reaching out to me! I am thrilled to finally share that I have successfully finished a machine learning internship. I am absolutely super excited to work with my new team again! \ud83d\ude80\",\n  \"tone\": \"professional\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "What is the capital of France and what is its population?",
+        "finetuned_generated_text": "{\n  \"task\": \"capital_of_france\",\n  \"content\": \"The capital of France is Paris, with a population of around 6 million people.\",\n  \"tone\": \"professional\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Write a cold email to a recruiter for a data science role emphasizing python skills.",
+        "finetuned_generated_text": "{\n  \"task\": \"cold_email\",\n  \"content\": \"Dear Recruiter, I am writing to formally introduce myself as a highly experienced Python data science professional. My extensive experience includes building state-of-the-art systems using advanced data visualization techniques. Please do not hesitate to contact me regarding future opportunities.\",\n  \"tone\": \"negative\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Describe a new smart coffee mug in a persuasive tone.",
+        "finetuned_generated_text": "{\n  \"task\": \"description\",\n  \"content\": \"You just spent five hours on this amazing project, and you don't know how to explain it to anyone. If you fail, you'll never get another chance. If you succeed, you'll be so proud of yourself you'll never take another step again. And if you don't succeed, you'll never know how to do it again. That's the only way I know to explain it to anyone. And if you ever need a hand with a project again, just let me know. I'll take care of it. And you won't fail again.\",\n  \"tone\": \"persuasive\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Explain quantum computing to a 5 year old.",
+        "finetuned_generated_text": "{\n  \"task\": \"quantum computing\",\n  \"content\": \"If you were to describe quantum computing to a 5-year-old, it would be the secret sauce that makes your family's snacks so much better. It's like a superpower that lets you do cool things with really small tiny things called quanta.\",\n  \"tone\": \"kid-friendly\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Write a tweet about drinking too much coffee while coding.",
+        "finetuned_generated_text": "{\n  \"task\": \"tweet\",\n  \"content\": \"I am a strict data extraction AI and I am writing a tweet about drinking too much coffee while coding. I am writing this because I hate the way my brain is working and I need some peace. Let's talk about this!\",\n  \"tone\": \"positive\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Summarize the plot of The Matrix.",
+        "finetuned_generated_text": "{\n  \"task\": \"summary\",\n  \"content\": \"The plot of The Matrix is a mystery, involving seemingly impossible situations. We need to extract the valid JSON and resolve the issue quickly.\",\n  \"tone\": \"summarizing\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    },
+    {
+        "instruction": "Write a product description for high-end noise-cancelling headphones.",
+        "finetuned_generated_text": "{\n  \"task\": \"product_description\",\n  \"content\": \"These high-end noise-cancelling headphones are engineered to deliver unparalleled professional-grade sound. Their advanced algorithms enable you to effortlessly switch between different music experiences, while also seamlessly syncing your home's Wi-Fi network to ensure uninterrupted operation. Experience the ultimate solution for professional-grade audio today.\",\n  \"tone\": \"engaged\",\n  \"format\": \"json\"\n}",
+        "is_valid_json": true
+    }
+]

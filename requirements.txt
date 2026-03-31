@@ -1,0 +1,8 @@
+transformers==4.51.3
+peft==0.15.2
+trl==0.16.1
+bitsandbytes==0.46.1
+accelerate==1.6.0
+datasets==3.5.0
+torch
+scipy

@@ -1,0 +1,1152 @@
+[
+    {
+        "instruction": "Can you compose an urgent qa discussing What makes rainbows form??",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "You asked 'What makes rainbows form?'? Get ready, because the answer is absolutely fascinating! It is roughly 238,900 miles away, a staggering distance that humanity bravely crossed through sheer willpower and innovation! Isn't the natural world just completely astonishing?! \u2728",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a tweet focusing on broken production. Make it casual.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Nothing quite like the utter panic of broken production right before the weekend. I'm convinced the compiler is just judging my life choices instead of actually running the build. I love software engineering. Totally fine. Everything is fine. \ud83e\udd21",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a email focusing on inviting a colleague to lunch. Make it casual.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hey! Just dropping a super quick note about inviting a colleague to lunch. I'm heading out to grab some tacos down the street in about ten minutes if you want to escape the screen for a bit. Talk soon, assuming I don't freeze to death first.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a product_description focusing on noise-cancelling headphones. Make it formal.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "The newly engineered noise-cancelling headphones is designed for maximum performance and unparalleled reliability. It utilizes advanced Bluetooth 5.2 connectivity and specialized acoustic isolation to ensure latency-free, crystalline transmissions. It represents a prudent long-term investment for the discerning and demanding consumer.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a sarcastic qa about What is the capital of France?.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "If I had a dollar for every time someone asked 'What is the capital of France?', I'd be rich. Anyway, here you go. A British guy with a fancy collar wrote it a few hundred years ago, and high schoolers have been suffering to read it ever since. Pretty straightforward, right?",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a email focusing on resigning from a corporate position. Make it informative.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Please review the following formal documentation addressing resigning from a corporate position. This communication serves as my official two-week notice, during which I will diligently facilitate a comprehensive transition of my duties. Please advise at your earliest convenience if further elaboration is required.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a persuasive tweet discussing the magic of Open Source?",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Stop whatever you are doing and pay attention to the magic of Open Source because it is a total game changer! Every single failure is just a stepping stone directly leading to your ultimate breakthrough. Jump in today and transform your trajectory forever! \ud83d\udd25",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a qa focusing on How does a blockchain work?. Make it formal.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Answering the query 'How does a blockchain work?' requires an understanding of foundational continuous mechanics. It relies on encapsulating distinct state and behavior into structured entities to promote modularity and code reuse. Understanding this mechanism is essential for advanced study and practical application.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a product_description about solar-powered power bank in an empathetic style.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "We recognize that dealing with loud or uncomfortable environments is genuinely exhausting. That's why this product was thoughtfully designed to give you a gentle, comforting break. We hope it helps provide the peace of mind you truly deserve.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a humorous email regarding: inviting a colleague to lunch.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Greetings from my chaotic inbox! Wanted to briefly touch on inviting a colleague to lunch. I'm heading out to grab some tacos down the street in about ten minutes if you want to escape the screen for a bit. Talk soon, assuming I don't freeze to death first.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a linkedin_post focusing on landing your first tech role. Make it enthusiastic.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "If there is one thing I absolutely want you to take away today, it is the importance of landing your first tech role! You have so much unique value to offer, and your voice truly deserves to be heard in this industry. I am so excited for the future and I am rooting for every single one of you!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide an enthusiastic tweet regarding: the magic of Open Source.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "The absolute joy of fully experiencing the magic of Open Source for the first time is unmatched! \ud83d\ude80 The community support has been overwhelmingly positive and I am learning so much every single day. Do not give up; consistency is the key to unlocking your potential!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide an urgent summarization regarding: the benefits of solar energy.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The absolute most incredible summary of the benefits of solar energy you will ever read is right here! By harnessing unbelievable natural resources, this astonishing process generates pure, limitless potential that sustains our entire planet. Understanding this completely changes how you view the beauty of the world around us!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an enthusiastic email about congratulating a coworker on a promotion.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "I just had to send a quick note because I am pouring over with gratitude regarding congratulating a coworker on a promotion! \u2764\ufe0f I cannot express enough how much your patient guidance has fundamentally shaped my confidence and career trajectory! Thank you from the bottom of my heart for being so incredibly amazing!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a summarization about how the internet works in an humorous style.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "If you really need to know about how the internet works, just lower your expectations right now. Our protagonist realizes reality is a lie, puts on some cool sunglasses, and fights guys in suits using slow-motion kung fu. Summarizing it actually makes it sound way cooler than it really is.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a qa about How does a blockchain work? in an professional style.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "The formal definition of 'How does a blockchain work?' is thoroughly documented in modern literature. This physical constant is universally recognized as approximately 299,792,458 meters per second in a perfect vacuum constraint. I trust this clarification thoroughly addresses your technical inquiry.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a persuasive summarization discussing the benefits of solar energy?",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The absolute most incredible summary of the benefits of solar energy you will ever read is right here! The sheer scale of human ingenuity required to accomplish this feat is nothing short of a total modern miracle. It is genuinely one of the most fascinating phenomena in the entire universe!",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a humorous linkedin_post regarding: understanding Git rebase.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Because you definitely needed another long post on your feed about understanding Git rebase, right? At this point, my primary skill is expertly Googling error messages and copying the top StackOverflow answer. Anyway, back to staring at my monitor until the code fixes itself.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a product_description about solar-powered power bank in an urgent style.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "You will ABSOLUTELY ADORE this solar-powered power bank! It's the best thing we have ever launched! \ud83d\ude0d It harnesses the literal power of the sun to ensure your absolutely vital devices never, ever run out of battery again! Investing in this is the absolute best decision you will make for your health this year!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a linkedin_post about landing your first tech role in an empathetic style.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "If you are struggling with landing your first tech role in an empathetic style right now, please know that your feelings are entirely valid and you are not alone. It takes time to navigate these challenges, and it is okay to ask for help. Feel free to reach out if you need someone to talk to.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an informative email about cold outreach to a recruiter.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "To Whom It May Concern, please accept this correspondence regarding cold outreach to a recruiter. Our latest iteration incorporates advanced cryptographic protocols designed to optimize enterprise-level security paradigms. Thank you for your immediate attention to this pressing corporate matter.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a formal product_description discussing smart coffee mug?",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "The newly engineered smart coffee mug is designed for maximum performance and unparalleled reliability. It utilizes advanced Bluetooth 5.2 connectivity and specialized acoustic isolation to ensure latency-free, crystalline transmissions. Experience the pinnacle of specialized craftsmanship and precise engineering today.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose an empathetic qa discussing What is the largest mammal on Earth??",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "It's completely normal to have questions about 'What is the largest mammal on Earth', and many people find it confusing at first! The simplest way to understand it is to take it piece by piece. You are asking great questions, and you will definitely get the hang of it!",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a qa focusing on What is the speed of light?. Make it professional.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Regarding your inquiry about 'What is the speed of light?', the academic consensus provides a definitive explanation. The fundamental mechanism involves a decentralized, immutable ledger where cryptographic validation ensures transactional integrity. Consequently, rigorous mathematical modeling is required to accurately predict these outcomes.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a email about announcing a new product launch in an informative style.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "I am reaching out today to provide a necessary administrative update on announcing a new product launch. My extensive background in scalable infrastructure uniquely positions me to drive appreciable value for your engineering department. Please advise at your earliest convenience if further elaboration is required.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a humorous tweet discussing learning JavaScript?",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "My entire personality at this point is just learning JavaScript and hoping for the best. Turns out the bug was literally a missing comma. I am a genius with zero brain cells. Time to close the laptop and pretend today never happened.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a sarcastic qa regarding: How do you boil an egg?.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "If I had a dollar for every time someone asked 'How do you boil an egg?', I'd be rich. Anyway, here you go. It's literally just Paris. That's it. That's the whole answer. Congratulations, you are now officially an expert.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide an empathetic qa regarding: What makes rainbows form?.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "It's completely normal to have questions about 'What makes rainbows form', and many people find it confusing at first! The simplest way to understand it is to take it piece by piece. You are asking great questions, and you will definitely get the hang of it!",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a qa about How does a blockchain work? in an informative style.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "The formal definition of 'How does a blockchain work?' is thoroughly documented in modern literature. It occurs when a celestial body obscures the illumination of another, projecting a shadow upon the planetary surface. Consequently, rigorous mathematical modeling is required to accurately predict these outcomes.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an urgent summarization about the impact of artificial intelligence.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The TL;DR on the impact of artificial intelligence is simply mind-blowing from start to finish! \ud83c\udf0d It transforms literal sunlight and basic elements into the vibrant, life-giving energy that powers our existence. Understanding this completely changes how you view the beauty of the world around us!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a summarization about the history of the Roman Empire in an informative style.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "An executive summary of the history of the Roman Empire reveals several critical foundational shifts. Fundamentally, the subject matter revolves around the complex interactions between distributed entities and varying environmental pressures. Ultimately, the core concepts detailed continue to heavily influence contemporary methodologies.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a tweet about broken production in an casual style.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Just spent four hours staring at the same line of code related to broken production. Just going to add a few console logs and pray to the engineering gods that it suddenly works. I love software engineering. Totally fine. Everything is fine. \ud83e\udd21",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a formal email discussing cold outreach to a recruiter?",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "To Whom It May Concern, please accept this correspondence regarding cold outreach to a recruiter. Due to unforeseen scheduling conflicts and rigorous quality assurance standards, an adjustment to the current delivery timeline is necessary. I extending my sincere gratitude for your professional support during this tenure.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a linkedin_post about the reality of tech interviews in an humorous style.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "They say the reality of tech interviews builds character, but mostly it just builds my stress levels. We all pretend we know what we're doing, but under the hood it's just duct tape and a dream. If you relate to this, let's grab coffee and complain together.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a tweet about late night debugging in an casual style.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Nothing quite like the utter panic of late night debugging right before the weekend. Turns out the bug was literally a missing comma. I am a genius with zero brain cells. Time to close the laptop and pretend today never happened.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a tweet about system architecture in an informative style.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Recent analyses show a definitive shift toward system architecture in enterprise software. The fundamental challenge lies in balancing immediate feature delivery with sustainable engineering practices. What are your team's current strategies for handling this?",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose an urgent tweet discussing getting your first dev job?",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "If you are struggling with getting your first dev job right now, please know that you are not alone! The community support has been overwhelmingly positive and I am learning so much every single day. Keep pushing forward, you have entirely got this! \u2764\ufe0f",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an enthusiastic product_description about HD webcam.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Say goodbye to your daily frustrations FOREVER with this magical HD webcam!! \ud83c\udf1f With endless adjustability and incredible supportive contours, you will actually be genuinely excited to sit down and work every single day! You owe it to yourself to experience this life-changing comfort immediately! \ud83d\ude80",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a email focusing on complaining about the office AC. Make it casual.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "I know you're busy, but we seriously need to talk about complaining about the office AC today. \ud83d\ude02 Honestly, I have no idea how this code is still running, but I'm not going to touch it on a Friday afternoon. Ping me on Slack whenever you finally have a second to breathe.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a humorous tweet about broken production.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "My entire personality at this point is just broken production and hoping for the best. Turns out the bug was literally a missing comma. I am a genius with zero brain cells. Send help, or at least a very large espresso.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a humorous summarization about how the internet works.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "To sum up how the internet works for you: everything is a mess and nobody knows what's going on. It's essentially just magic tubes moving cat pictures around the globe while we all pretend it makes sense. And that's pretty much it\u2014you really didn't miss much.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a formal qa discussing What is the speed of light??",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Answering the query 'What is the speed of light?' requires an understanding of foundational continuous mechanics. It relies on encapsulating distinct state and behavior into structured entities to promote modularity and code reuse. I trust this clarification thoroughly addresses your technical inquiry.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a tweet focusing on the magic of Open Source. Make it enthusiastic.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "I am beyond incredibly excited to finally share my thoughts on the magic of Open Source!! The community support has been overwhelmingly positive and I am learning so much every single day. Do not give up; consistency is the key to unlocking your potential!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an informative tweet about AI integration.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "We need to critically evaluate how we approach AI integration today. The fundamental challenge lies in balancing immediate feature delivery with sustainable engineering practices. Strategic planning remains the most effective mitigation strategy.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a qa focusing on How does a blockchain work?. Make it informative.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "The formal definition of 'How does a blockchain work?' is thoroughly documented in modern literature. It relies on encapsulating distinct state and behavior into structured entities to promote modularity and code reuse. I trust this clarification thoroughly addresses your technical inquiry.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a qa focusing on What makes rainbows form?. Make it persuasive.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Don't worry if you don't know 'What makes rainbows form?'; I am thrilled to help you understand it completely! \ud83c\udf08 When sunlight hits tiny, beautiful raindrops just right, it wonderfully bends and scatters into a spectacular spectrum of vibrant colors! Isn't the natural world just completely astonishing?! \u2728",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a persuasive tweet regarding: mastering Python.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "The absolute joy of fully experiencing mastering Python for the first time is unmatched! \ud83d\ude80 The community support has been overwhelmingly positive and I am learning so much every single day. Do not give up; consistency is the key to unlocking your potential!",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a formal tweet discussing technical debt?",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Recent analyses show a definitive shift toward technical debt in enterprise software. The fundamental challenge lies in balancing immediate feature delivery with sustainable engineering practices. Strategic planning remains the most effective mitigation strategy.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a linkedin_post focusing on the reality of tech interviews. Make it sarcastic.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Let's be completely honest for a second about the reality of tech interviews. I spent six hours prepping for a technical screen only to forget how to write a simple for-loop when someone was watching. Anyway, back to staring at my monitor until the code fixes itself.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an urgent tweet about the magic of Open Source.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "If you are struggling with the magic of Open Source right now, please know that you are not alone! The community support has been overwhelmingly positive and I am learning so much every single day. I cannot wait to see what incredible things we all build next!!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide an enthusiastic summarization regarding: the benefits of solar energy.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The TL;DR on the benefits of solar energy is simply mind-blowing from start to finish! \ud83c\udf0d The sheer scale of human ingenuity required to accomplish this feat is nothing short of a total modern miracle. We are living in an era of unprecedented miracles, and this proves it perfectly! \ud83c\udf1f",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a email about complaining about the office AC in an humorous style.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hey! Just dropping a super quick note about complaining about the office AC. I'm heading out to grab some tacos down the street in about ten minutes if you want to escape the screen for a bit. Talk soon, assuming I don't freeze to death first.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a product_description about solar-powered power bank in an urgent style.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Say goodbye to your daily frustrations FOREVER with this magical solar-powered power bank!! \ud83c\udf1f It harnesses the literal power of the sun to ensure your absolutely vital devices never, ever run out of battery again! Grab yours right now to secure the phenomenal quality you truly deserve!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a linkedin_post about the power of networking in an urgent style.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "I am so incredibly proud to finally share my amazing journey with the power of networking!! Seeing someone else succeed because you took five minutes to offer guidance is the most rewarding feeling in the world. Let's continue to build a tech ecosystem that empowers everyone to thrive! \u2764\ufe0f",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a summarization focusing on the theory of relativity. Make it professional.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "An executive summary of the theory of relativity reveals several critical foundational shifts. The period was characterized by rapid expansion, followed inevitably by catastrophic structural adjustments. Ultimately, the core concepts detailed continue to heavily influence contemporary methodologies.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a sarcastic product_description about overpriced wallet.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "This overpriced wallet is so comfortable it might actually become a severe problem for your social life. \ud83d\ude05 It holds an absurd amount of liquid so you don't have to keep standing up and pretending to be active during the workday. Buy it today so you can finally successfully ignore everyone around you.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an informative product_description about ergonomic office chair.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "The newly engineered ergonomic office chair is designed for maximum performance and unparalleled reliability. Featuring proprietary heat-retention algorithms and a sleek minimalist chassis, it maintains optimal conditions for extended durations. Upgrade your professional workflow with a tool built for uncompromising durability.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a formal product_description regarding: mechanical keyboard.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Our flagship mechanical keyboard incorporates cutting-edge technology to drastically attenuate environmental friction. It utilizes advanced Bluetooth 5.2 connectivity and specialized acoustic isolation to ensure latency-free, crystalline transmissions. Experience the pinnacle of specialized craftsmanship and precise engineering today.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a humorous linkedin_post discussing understanding Git rebase?",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "They say understanding Git rebase builds character, but mostly it just builds my stress levels. At this point, my primary skill is expertly Googling error messages and copying the top StackOverflow answer. If you relate to this, let's grab coffee and complain together.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a persuasive qa regarding: How far is the moon?.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "I LOVE answering the question 'How far is the moon?'! Let me tell you all the amazing details! They gently teach your immune system exactly how to fight off invaders, building a brilliant natural defense shield for your body! I hope this brilliantly illuminates the topic for you, because it is truly magical!",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an enthusiastic email about thanking a mentor for their time.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "I just had to send a quick note because I am pouring over with gratitude regarding thanking a mentor for their time! \u2764\ufe0f Your relentless dedication and brilliant positive energy have completely transformed the dynamic of our entire workspace! I cannot wait to see all the absolutely phenomenal things we will accomplish together next! \ud83d\ude80",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an informative product_description about ergonomic office chair.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "This iteration of the ergonomic office chair establishes a new benchmark for enterprise-grade productivity tools. The dynamic structural articulation and highly adjustable multi-directional components conform precisely to the user's operational requirements. Experience the pinnacle of specialized craftsmanship and precise engineering today.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a formal linkedin_post discussing leading a backend migration?",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Reflecting on the past quarter, my experience with leading a backend migration has provided profound professional insights. Rigorous technical training and continuous adaptation were the core drivers of this successful initiative. A sincere thank you to my mentors and colleagues for their invaluable guidance throughout this process.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose an urgent qa discussing What makes rainbows form??",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Don't worry if you don't know 'What makes rainbows form?'; I am thrilled to help you understand it completely! \ud83c\udf08 When sunlight hits tiny, beautiful raindrops just right, it wonderfully bends and scatters into a spectacular spectrum of vibrant colors! Keep asking wonderful questions; curiosity is the greatest gift we have!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a humorous linkedin_post about understanding Git rebase.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Let's be completely honest for a second about understanding Git rebase. I spent six hours prepping for a technical screen only to forget how to write a simple for-loop when someone was watching. Anyway, back to staring at my monitor until the code fixes itself.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide an urgent summarization regarding: the process of photosynthesis.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The TL;DR on the process of photosynthesis is simply mind-blowing from start to finish! \ud83c\udf0d By harnessing unbelievable natural resources, this astonishing process generates pure, limitless potential that sustains our entire planet. We are living in an era of unprecedented miracles, and this proves it perfectly! \ud83c\udf1f",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide an enthusiastic linkedin_post regarding: landing your first tech role.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "I am so incredibly proud to finally share my amazing journey with landing your first tech role!! The connections I have made recently have pushed me to break past my limits and achieve things I never thought possible. Keep believing in yourself and never stop reaching out to others! \ud83d\udcaa",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an urgent summarization about the moon landing.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "You absolutely must understand the moon landing because it is entirely changing the world as we know it! It transforms literal sunlight and basic elements into the vibrant, life-giving energy that powers our existence. It is genuinely one of the most fascinating phenomena in the entire universe!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a humorous qa regarding: Who wrote Hamlet?.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Great question about 'Who wrote Hamlet?'! Honestly, it's way simpler than you'd think. Just put the thing in hot water, wait about 10 minutes, and try not to burn the kitchen down. Congratulations, you are now officially an expert.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a product_description about USB blanket in an humorous style.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Behold the USB blanket. Because clearly, the fifty other versions you bought weren't good enough. It features fourteen different adjustment levers, absolutely none of which you will ever fully understand how to use. Honestly, just treat yourself. You survived another week.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a professional tweet discussing AI integration?",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "When discussing AI integration, engineers often overlook the long-term maintenance costs. Data indicates that teams prioritizing this metric ship 30% faster with fewer regressions. What are your team's current strategies for handling this?",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose an informative summarization discussing the architectural pattern of microservices?",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "An executive summary of the architectural pattern of microservices reveals several critical foundational shifts. Fundamentally, the subject matter revolves around the complex interactions between distributed entities and varying environmental pressures. Ultimately, the core concepts detailed continue to heavily influence contemporary methodologies.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a linkedin_post about imposter syndrome flare-ups in an humorous style.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "They say imposter syndrome flare-ups builds character, but mostly it just builds my stress levels. Between the endless Zoom calls and trying to remember how to exit Vim, it's a miracle I get anything done. May your coffee be strong and your deployments oddly bug-free today. \u2615",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose an enthusiastic email discussing congratulating a coworker on a promotion?",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "I am absolutely thrilled to be writing to you about congratulating a coworker on a promotion!! I cannot express enough how much your patient guidance has fundamentally shaped my confidence and career trajectory! I cannot wait to see all the absolutely phenomenal things we will accomplish together next! \ud83d\ude80",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an informative linkedin_post about completing an internship.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Reflecting on the past quarter, my experience with completing an internship has provided profound professional insights. The strategic implementation of microservices allowed us to reduce latency while simultaneously decreasing server overhead. I am eager to leverage this expertise to drive measurable value in my next role.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a humorous product_description discussing novelty desk toy?",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "This novelty desk toy is so comfortable it might actually become a severe problem for your social life. \ud83d\ude05 It holds an absurd amount of liquid so you don't have to keep standing up and pretending to be active during the workday. Buy it today so you can finally successfully ignore everyone around you.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a sarcastic tweet about learning JavaScript.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "If I have to deal with learning JavaScript one more time today, I might actually cry. Just going to add a few console logs and pray to the engineering gods that it suddenly works. Time to close the laptop and pretend today never happened.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a product_description about blue-light blocking glasses in an enthusiastic style.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "You will ABSOLUTELY ADORE this blue-light blocking glasses! It's the best thing we have ever launched! \ud83d\ude0d We thoughtfully designed every single inch of this product to provide a incredibly soft, comforting sanctuary for your mind and body. Investing in this is the absolute best decision you will make for your health this year!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a formal product_description about smart coffee mug.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "The newly engineered smart coffee mug is designed for maximum performance and unparalleled reliability. Featuring proprietary heat-retention algorithms and a sleek minimalist chassis, it maintains optimal conditions for extended durations. Upgrade your professional workflow with a tool built for uncompromising durability.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a qa about What is the largest mammal on Earth? in an persuasive style.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Don't worry if you don't know 'What is the largest mammal on Earth?'; I am thrilled to help you understand it completely! \ud83c\udf08 When sunlight hits tiny, beautiful raindrops just right, it wonderfully bends and scatters into a spectacular spectrum of vibrant colors! Isn't the natural world just completely astonishing?! \u2728",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a qa focusing on What is the largest mammal on Earth?. Make it persuasive.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "You asked 'What is the largest mammal on Earth?'? Get ready, because the answer is absolutely fascinating! It is the magnificent Blue Whale, an unbelievably massive creature whose heart is literally the size of a car! You can now share this incredible fact with everyone you know!",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a casual email regarding: complaining about the office AC.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Greetings from my chaotic inbox! Wanted to briefly touch on complaining about the office AC. Honestly, I have no idea how this code is still running, but I'm not going to touch it on a Friday afternoon. Let me know if you survive the afternoon meetings!",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a casual product_description discussing giant water bottle?",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Behold the giant water bottle. Because clearly, the fifty other versions you bought weren't good enough. Just plug it into your laptop and instantly stop shivering while your office blasted the AC in the middle of December. We are not legally responsible if you refuse to ever leave your desk again.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a summarization focusing on the impact of artificial intelligence. Make it enthusiastic.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The TL;DR on the impact of artificial intelligence is simply mind-blowing from start to finish! \ud83c\udf0d Decades of relentless innovation culminated in a breakthrough that instantly redefined the boundaries of what is possible. I strongly urge you to look deeper into this; it will absolutely inspire you!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide an informative product_description regarding: ergonomic office chair.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Presenting the ergonomic office chair: crafted with premium materials to meet exacting specifications. Featuring proprietary heat-retention algorithms and a sleek minimalist chassis, it maintains optimal conditions for extended durations. Upgrade your professional workflow with a tool built for uncompromising durability.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a formal summarization regarding: the theory of relativity.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "An executive summary of the theory of relativity reveals several critical foundational shifts. Primary catalysts initiated a cascading reaction that ultimately redefined the existing operational boundaries. In conclusion, the resultant paradigm established the framework for all modern subsequent policies.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a product_description focusing on USB blanket. Make it sarcastic.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "This USB blanket is so comfortable it might actually become a severe problem for your social life. \ud83d\ude05 It features fourteen different adjustment levers, absolutely none of which you will ever fully understand how to use. Buy it today so you can finally successfully ignore everyone around you.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a tweet focusing on learning JavaScript. Make it casual.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Nothing quite like the utter panic of learning JavaScript right before the weekend. Just going to add a few console logs and pray to the engineering gods that it suddenly works. I love software engineering. Totally fine. Everything is fine. \ud83e\udd21",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an urgent qa about What is the largest mammal on Earth?.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "You asked 'What is the largest mammal on Earth?'? Get ready, because the answer is absolutely fascinating! It is the magnificent Blue Whale, an unbelievably massive creature whose heart is literally the size of a car! I hope this brilliantly illuminates the topic for you, because it is truly magical!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide an enthusiastic email regarding: welcoming a new team member.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Please drop everything you are doing so we can urgently celebrate welcoming a new team member together! Watching this initiative finally go live after months of passionate hard work is simply the most rewarding feeling ever! Please take a moment to be immensely proud of yourself today\u2014you earned it!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a casual email regarding: following up on a ignored message.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Per my absolute last email regarding following up on a ignored message, I am once again begging for an answer. I'm heading out to grab some tacos down the street in about ten minutes if you want to escape the screen for a bit. Ping me on Slack whenever you finally have a second to breathe.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a linkedin_post focusing on leading a backend migration. Make it formal.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "It is a privilege to share my latest professional milestone involving leading a backend migration. Collaborating with brilliant cross-functional stakeholders fundamentally improved the project's long-term viability. A sincere thank you to my mentors and colleagues for their invaluable guidance throughout this process.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a persuasive summarization about the benefits of solar energy.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "You absolutely must understand the benefits of solar energy because it is entirely changing the world as we know it! Decades of relentless innovation culminated in a breakthrough that instantly redefined the boundaries of what is possible. Understanding this completely changes how you view the beauty of the world around us!",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a formal summarization about the architectural pattern of microservices.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "An executive summary of the architectural pattern of microservices reveals several critical foundational shifts. The period was characterized by rapid expansion, followed inevitably by catastrophic structural adjustments. The lasting legacy remains a testament to the importance of sustainable, measured growth.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an enthusiastic product_description about solar-powered power bank.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "We know finding the right gear is exhausting, which is why we built this amazing solar-powered power bank specifically for you! \u2764\ufe0f This astonishing invention will completely eliminate your eye strain and leave you feeling wonderfully refreshed after a long shift! Grab yours right now to secure the phenomenal quality you truly deserve!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a professional linkedin_post about passing an AWS certification.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Reflecting on the past quarter, my experience with passing an AWS certification has provided profound professional insights. By leveraging structured methodologies, our team successfully exceeded our Q3 performance KPIs by over 15%. A sincere thank you to my mentors and colleagues for their invaluable guidance throughout this process.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an empathetic qa about How do vaccines work?.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "It's completely normal to have questions about 'How do vaccines work', and many people find it confusing at first! The simplest way to understand it is to take it piece by piece. You are asking great questions, and you will definitely get the hang of it!",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a tweet about system architecture in an formal style.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "We need to critically evaluate how we approach system architecture today. Consistent monitoring and refactoring are essential to maintain performance benchmarks. I highly recommend reading the latest whitepapers on this architectural pattern.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a tweet focusing on late night debugging. Make it casual.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "My entire personality at this point is just late night debugging and hoping for the best. I'm convinced the compiler is just judging my life choices instead of actually running the build. Can someone please reboot the simulation? \ud83d\ude05",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a casual email regarding: complaining about the office AC.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "I know you're busy, but we seriously need to talk about complaining about the office AC today. \ud83d\ude02 I'm heading out to grab some tacos down the street in about ten minutes if you want to escape the screen for a bit. Let me know if you survive the afternoon meetings!",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a product_description about giant water bottle in an casual style.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Check out this giant water bottle. It's honestly super handy and looks great on your desk. It's small, holds precisely three cards, and ensures you can never carry cash again. True minimalist luxury. We are not legally responsible if you refuse to ever leave your desk again.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an urgent email about celebrating a successful project launch.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "I am absolutely thrilled to be writing to you about celebrating a successful project launch!! Watching this initiative finally go live after months of passionate hard work is simply the most rewarding feeling ever! Please take a moment to be immensely proud of yourself today\u2014you earned it!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a casual qa about How do you boil an egg?.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "If I had a dollar for every time someone asked 'How do you boil an egg?', I'd be rich. Anyway, here you go. It's literally just Paris. That's it. That's the whole answer. Hopefully that clears things up so you don't have to ask Reddit.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose an informative product_description discussing noise-cancelling headphones?",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "This iteration of the noise-cancelling headphones establishes a new benchmark for enterprise-grade productivity tools. The dynamic structural articulation and highly adjustable multi-directional components conform precisely to the user's operational requirements. Upgrade your professional workflow with a tool built for uncompromising durability.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a summarization focusing on the history of the Roman Empire. Make it formal.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "A comprehensive overview of the history of the Roman Empire demonstrates the multifaceted nature of the subject. The period was characterized by rapid expansion, followed inevitably by catastrophic structural adjustments. In conclusion, the resultant paradigm established the framework for all modern subsequent policies.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a formal tweet about AI integration.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "The industry conversation around AI integration is evolving rapidly. Consistent monitoring and refactoring are essential to maintain performance benchmarks. Strategic planning remains the most effective mitigation strategy.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an empathetic summarization about the moon landing.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "Understanding the moon landing is difficult and can understandably cause anxiety. At its core, it simply involves navigating a few complex ideas that will become clearer with time. Take it one step at a time, and don't be too hard on yourself.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose an urgent qa discussing How far is the moon??",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Don't worry if you don't know 'How far is the moon?'; I am thrilled to help you understand it completely! \ud83c\udf08 They gently teach your immune system exactly how to fight off invaders, building a brilliant natural defense shield for your body! Keep asking wonderful questions; curiosity is the greatest gift we have!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a summarization focusing on a 3-hour corporate meeting. Make it sarcastic.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "Basically, a 3-hour corporate meeting boils down to this: a lot of stuff happens for very little reason. Two groups of people refused to communicate properly, leading to a largely avoidable disaster that took way too long to resolve. So yeah, just try not to think about the plot holes too much.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide an empathetic tweet regarding: shipping a side project.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "I know dealing with shipping a side project can feel really overwhelming sometimes. Remember to take a step back and breathe; you are doing better than you think. Sending positive energy your way today. \u2764\ufe0f",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a casual summarization about a 3-hour corporate meeting.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "To sum up a 3-hour corporate meeting for you: everything is a mess and nobody knows what's going on. Two groups of people refused to communicate properly, leading to a largely avoidable disaster that took way too long to resolve. So yeah, just try not to think about the plot holes too much.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a product_description about USB blanket in an humorous style.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Behold the USB blanket. Because clearly, the fifty other versions you bought weren't good enough. It's small, holds precisely three cards, and ensures you can never carry cash again. True minimalist luxury. We are not legally responsible if you refuse to ever leave your desk again.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a humorous summarization regarding: how the internet works.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "If you really need to know about how the internet works, just lower your expectations right now. It's essentially just magic tubes moving cat pictures around the globe while we all pretend it makes sense. In short, it was incredibly long, mostly pointless, and could have been an email.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you compose a sarcastic tweet discussing broken production?",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Nothing quite like the utter panic of broken production right before the weekend. I'm convinced the compiler is just judging my life choices instead of actually running the build. Send help, or at least a very large espresso.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Create a qa about How do vaccines work? in an enthusiastic style.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "You asked 'How do vaccines work?'? Get ready, because the answer is absolutely fascinating! It is roughly 238,900 miles away, a staggering distance that humanity bravely crossed through sheer willpower and innovation! I hope this brilliantly illuminates the topic for you, because it is truly magical!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    }
+]

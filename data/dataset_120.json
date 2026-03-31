@@ -1,0 +1,1202 @@
+[
+    {
+        "instruction": "Empathetic post for people who have failed a certification exam recently.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "I just passed my Azure certification, but I want to be transparent: I actually failed it the first time I took it last month. If you recently failed an exam, please don't let it define your intelligence. Dust yourself off, review the domain gaps, and try again. You've got this. \ud83d\udcaa",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "What is the speed of light, genius?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "It's exactly 299,792,458 meters per second. Because clearly, knowing the exact physical speed limit of the cosmos is going to help you immensely during your morning commute today. You're welcome.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A formal showroom description of an ergonomic seating apparatus.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "This premium seating solution features a synchronized tilt mechanism, multi-directional armrests, and a highly breathable elastomeric mesh back. The structural components are fabricated from die-cast aluminum, ensuring both long-term structural integrity and sophisticated aesthetic appeal.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An empathetic post addressed to other interns struggling with imposter syndrome.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Finishing my internship today makes me look back on my first week, when my imposter syndrome was at an all-time high. To any current interns feeling like they don't belong: your feelings are valid, but they aren't facts. You were hired for a reason. Keep pushing forward.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Informative tweet describing the difference between two frameworks.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Key difference: React uses a Virtual DOM to batch DOM updates efficiently, whereas SolidJS uses fine-grained reactivity to update the real DOM directly. This allows Solid to achieve incredible runtime performance on complex data grids.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A persuasive cold email convincing a recruiter you are the perfect fit.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Mark, if you review my attached portfolio, you will see exactly why I am the perfect fit for your open Data Engineering role. In my last position, I optimized query response times by 40%, directly translating to higher user retention. I am confident I can deliver the same rapid impact for your team.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An urgent promotional product description for a chair.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Act fast! This award-winning ergonomic office chair is currently on a massive flash sale, but only for the next 24 hours! Upgrade your home office immediately before sitting in that awful dining chair permanently damages your spine!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "How fast is the speed of light?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "It's roughly 670 million miles per hour. Which is incredibly fast, but still somehow slower than my cat running to the kitchen the second she hears the sound of a tuna can opening.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Sarcastic product description for a fancy office chair.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Here is an absurdly complex chair that looks like it belongs on a spaceship. It has fourteen different adjustment levers, none of which you will ever understand how to use. But your lower back will supposedly thank you.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Informative description detailing the specs of the headphones.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Our wireless headphones utilize Bluetooth 5.2 for stable multipoint connectivity and feature an ANC processor capable of filtering frequencies up to 2kHz. The dynamic 40mm neodymium drivers offer a frequency response range of 10Hz to 20,000Hz, providing a balanced, flat audio profile.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a professional tweet on the importance of continuously learning new frameworks.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "The rapid evolution of web technologies necessitates continuous learning for frontend developers. Dedicating time each quarter to master new frameworks is essential for delivering modern, performant user experiences.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you give a sarcastic summary of how the 2008 crisis happened?",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "Oh, you know, just some brilliant Wall Street executives deciding that giving million-dollar mortgages to people with zero income was a foolproof business model. And when their magical house of cards inevitably collapsed, they naturally got bailed out with taxpayer money. Incredible system.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Persuasive LinkedIn post on why companies should hire former ML interns.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Companies should aggressively recruit talent fresh out of ML internships. We come equipped with hands-on experience in the latest frameworks, a hunger to prove ourselves, and a fresh perspective untainted by legacy tech debt. Hire an intern today, you won't regret the ROI.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Summarize the 2008 financial crisis causally.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "Basically, banks gave out a bunch of housing loans to people who couldn't really afford them, then packaged those risky loans and sold them as super safe investments. When everyone stopped paying, the whole housing market crashed and took the global economy with it.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "How in the world do you boil an egg?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Step 1: Put egg in water. Step 2: Make water angry and bubbly. Step 3: Forget about it for exactly 10 minutes while scrolling on your phone. Step 4: Throw it in an ice bath so it doesn't turn green. Congratulations, you are now a chef.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Empathetic summary focusing on Neo's difficult journey in The Matrix.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The story follows Neo, who struggles with a deep, isolating feeling that something is fundamentally wrong with the world. Thrust into a harrowing new reality, he faces immense pressure and self-doubt before finally learning to believe in his own worth and potential.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Could you provide instructions on the proper preparation of a boiled egg?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "To properly execute the boiling of an egg, one must place the uncooked specimen into a vessel of cool water, gradually applying thermal energy until the water achieves a vigorous boil. The vessel is subsequently removed from active heat and covered, permitting residual thermal transfer for precisely ten minutes.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Tell me the absolute best way to boil an egg!",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "It's so incredibly easy and fun! Just pop your eggs in a pot with cold water and crank up the heat until it boils! Then, take it off the stove, cover it, and wait exactly 10 minutes! You will get the most perfect, beautiful hard-boiled eggs every single time! \ud83c\udf89\ud83e\udd5a",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A formal literary summary of the narrative arc in The Matrix.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The narrative centers on Thomas Anderson, who perceives the illusory nature of his existence and transcends his simulated boundaries. Through profound philosophical awakenings and martial prowess, he ultimately rejects deterministic subjugation to combat his artificial oppressors.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A funny LinkedIn post about finishing a data science internship.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Today marks the end of my internship. My two greatest achievements: deploying a model to production without bringing down the servers, and figuring out how to unjam the office printer. It's been wild. Thanks everyone for keeping me employed!",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an excited tweet about fueled-up late-night coding.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Let's GOOOO!! \ud83d\ude80 The caffeine has officially hit and I am crushing these bug fixes like never before! Sometimes the midnight oil is exactly what you need to get the creative juices flowing!!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a highly enthusiastic summary of The Matrix.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The Matrix is an incredibly mind-bending masterpiece where a normal guy discovers he's the chosen one in a machine-ruled simulation! It has the most groundbreaking slow-motion action scenes ever and totally redefines the sci-fi genre! You simply HAVE to watch it!!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Urgent tweet telling developers to update to the latest framework version.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "CRITICAL UPDATE: If you are still using the v2 router, you need to migrate to v3 immediately before the deprecation next week! This is not a drill, your apps will break if you don't act now! \u26a0\ufe0f",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an enthusiastic resignation email celebrating the time spent at the company.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Team! I'm officially submitting my two-week notice as I am moving on to a bold new adventure! I have absolutely loved every single minute of working with all of you amazing people. Thank you so much for being the best team I could have ever asked for! \ud83c\udf89",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a sarcastic resignation email.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Dear Boss, I am writing to formally announce my resignation. I'll surely miss the mandatory 8 AM daily standups, the micromanagement, and the pizza parties instead of bonuses. My final day will be next Friday. Best of luck.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an informative tweet about coffee consumption for coders.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Quick tip for developers: Caffeine has a half-life of roughly 5 hours. If you are drinking coffee at 8 PM to finish a sprint, it will actively disrupt your deep sleep cycle later. Hydrate instead!",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a professional LinkedIn post concluding a data science internship experience.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "It is with great pride that I announce the conclusion of my Machine Learning Internship at TechCorp. Over the past quarter, I developed predictive models that improved processing efficiency by 15%. I am deeply grateful to my brilliant colleagues for their mentorship and support.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An urgent sales-focused product description for headphones.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Don't miss out on the ultimate listening experience! Our top-rated noise-cancelling headphones are flying off the shelves and stock is critically low. Grab yours right now to secure the immersive audio quality you deserve before they are gone!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a professional cold email to a recruiter for a software engineering position.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Dear Ms. Jenkins, I am writing to express my strong interest in the Senior Full Stack Engineer role at your organization. I bring five years of experience in designing scalable microservices architecture using React and Go. I have attached my resume and would welcome the opportunity to discuss how my technical skills align with your team's objectives.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Why is the cold-water starting method best for boiling eggs?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "You should always start your eggs in cold water because it ensures even cooking and prevents the shells from violently cracking due to thermal shock. Trust me, if you drop cold eggs into boiling water, you're just asking for a messy disaster. Use the cold-start method for flawless results.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an enthusiastic tweet about starting a new backend framework tutorial.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "I am absolutely LOVING this new FastAPI tutorial!! Building APIs has literally never been this fast or intuitive. If you haven't tried it yet, you are seriously missing out! \ud83d\udd25\ud83d\udd25",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A funny cold email to a recruiter to stand out.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi David, I know you get about 5,000 cold emails a day, so I'll keep this brief. I write incredibly clean Python code, I make excellent office coffee, and I have never once broken production on a Friday. If that sounds like the kind of developer you need, I'd love to chat!",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Sarcastic tweet about another new JS framework coming out.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Oh look, it's Tuesday, which means a brand new JavaScript framework just dropped that promises to fix everything the framework from last Monday broke. Truly revolutionary stuff. Can't wait to rewrite my whole codebase again.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "I'm having trouble understanding how fast light is. Can you explain it simply?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "The numbers are so huge that they are naturally hard for the human brain to grasp, so please don't feel bad! Just imagine turning on a flashlight: in the time it takes you to blink your eyes, the light coming out of it could have already circled the entire globe seven times. It's just beautifully fast.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Informative post summarizing the 3 key takeaways from an internship.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "As I wrap up my internship, here are my top three learnings: 1. Data cleaning takes 80% of your time, 2. A simple logistic regression often beats a complex neural network, and 3. Communication is just as important as code quality. Keep these in mind if you are starting your industry journey!",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a tweet in an urgent tone about needing coffee to fix an outage.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "SYSTEM IS DOWN and I am completely out of coffee!! \ud83d\udea8 If anyone is awake near the office, please bring a double espresso to the server room immediately. We need this fixed NOW!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Persuade people to stop coding late with coffee in a tweet.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "You need to stop glorifying the 'late night hustle' fueled by energy drinks. Getting 8 hours of sleep will do more for your code quality than 4 cups of coffee ever will. Prioritize your health over the grind.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "I messed up boiling eggs last time. How do I do it right?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Don't worry, cooking eggs can be surprisingly tricky and almost everyone messes them up at first! Just gently place them in cold water, bring it to a boil, then turn off the heat and cover. Let them rest 10 minutes. You'll definitely get it perfectly this time, I promise! \ud83d\ude0a",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Persuasively summarize The Matrix to convince someone to watch it.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The Matrix isn't just an action movie; it's a profound philosophical exploration of reality versus illusion, wrapped in the coolest cyberpunk aesthetic imaginable. It will actively make you question your own existence while delivering unmatched choreography. You must watch it tonight.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a super enthusiastic post about finishing an ML internship.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "What an INCREDIBLE journey!! \ud83c\udf1f I just wrapped up my ML Engineering internship and I am bursting with gratitude! The hands-on experience I gained with Large Language Models was absolutely mind-blowing and I can't wait to apply these skills to my future career! \ud83d\ude80",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An empathetic cold email acknowledging a recruiter's busy schedule.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Alex, I know your inbox is probably overflowing right now given all the recent hiring announcements. I just wanted to drop a quick note to say I've applied for the Systems Engineer role online. No need to reply to this, I just wanted to put a name to the application. Have a great week!",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you define the speed of light scientifically?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "The speed of light in a vacuum, denoted by the universal physical constant 'c', is exactly 299,792,458 meters per second. According to special relativity, it represents the maximum velocity at which all conventional matter, energy, or information can travel through space.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a casual product description for noise-cancelling headphones.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "These wireless headphones are basically magic. Put them on, turn on the active noise cancellation, and the whole world just mutes. Perfect for working in a loud cafe or just tuning out your noisy roommates. Plus, the battery lasts all week!",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Quick, what is the exact speed of light in m/s?!",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "You need this right now? It is EXACTLY 299,792,458 meters per second! Do not round it up to 300 million if you are doing precise orbital mechanics calculations, use the exact constant immediately!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Formal update on securing an industry-standard technical certification.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "This post serves to confirm that I have fulfilled all requirements to obtain the Microsoft Certified: Azure Administrator Associate designation. This achievement underscores my persistent commitment to professional development and technical excellence.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Sarcastic product description for expensive noise-cancelling headphones.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Buy these $400 noise-cancelling headphones so you can finally successfully ignore your family. They feature state-of-the-art battery life, meaning you can pretend you can't hear anyone talking to you for up to five business days without recharging.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Sarcastic summary of The Matrix.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "A chronically online programmer takes a pill from a stranger in a trench coat, wakes up in a bathtub of goo, and spends the rest of the movie dodging bullets in slow motion while wearing very impractical sunglasses indoors.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Hey, what exactly is the speed of light?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "It's insanely fast! The speed of light in a vacuum is about 186,000 miles per second, or roughly 300,000 kilometers per second. Basically, it's the ultimate speed limit of the universe, meaning nothing can travel faster than it.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Empathetic tweet validating the feeling of tutorial hell.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "To anyone stuck in 'tutorial hell' trying to learn Next.js: it is completely normal to feel lost right now. The ecosystem is massive and it takes months to click. Don't beat yourself up, just keep making small projects. You will get there.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An empathetic resignation email addressing a close-knit team.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi everyone, writing this is incredibly difficult because you have all become like family to me. I've decided to resign to relocate closer to my parents, but leaving this supportive, wonderful team breaks my heart. I will miss our daily chats so much, and I promise to stay in touch.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a professional summary of the 2008 global financial crisis.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The 2008 financial crisis was triggered by the deregulation of financial derivatives and the proliferation of subprime mortgages. The subsequent collapse of the housing bubble led to severe liquidity shortfalls in the global banking system, precipitating a severe international economic recession.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "I need a sarcastic tweet about drinking too much coffee while debugging.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Ah yes, my favorite programming technique: drink six espressos and stare at the same segmentation fault for four hours. Truly the pinnacle of human intellect and engineering. \ud83e\udd21",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Humorous tweet about reading framework documentation.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Reading the documentation for this new library feels like reading ancient hieroglyphics without a Rosetta Stone. At this point, I'm just copying stack overflow snippets and praying to the compiler gods. \ud83d\ude4f",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An enthusiastic product description for an immensely comfortable chair.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Say goodbye to back pain FOREVER!! \ud83c\udf1f This ergonomic chair feels like sitting on a literal cloud! With endless adjustability and incredible lumbar support, you will actually be genuinely excited to sit down and start working every single day!!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a formal announcement tweet regarding a team adopting a new framework.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "We are pleased to announce that our engineering division will be transitioning to a modern micro-frontend architecture next quarter. This strategic shift will significantly decrease our deployment times and improve scalability.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a casual resignation email to my manager.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Tom, I'm writing to let you know that I'll be leaving the company, with my last day being November 15th. I've had a great time working with everyone here, but an opportunity came up that I couldn't pass on. Let's grab lunch before I head out!",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a casual tweet about the struggles of learning a new JavaScript framework.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Just started digging into the new React compiler stuff. It's a bit confusing at first but I think I'm slowly getting the hang of it. Wish me luck over the weekend! \ud83d\ude05",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Sarcastic LinkedIn post about how much studying a certification took.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "I am humbled and honored to announce that after sacrificing all my weekends, social life, and sanity to read 400 pages of AWS documentation, I have earned a digital badge. I will now seamlessly integrate the phrase 'S3 bucket' into every conversation.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A persuasive product description on why the chair is an investment.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "You spend over 2,000 hours a year sitting at your desk. Why on earth would you compromise on the singular tool that protects your physical health? Investing in this true ergonomic chair is an investment in your energy, productivity, and future spinal wellness.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An empathetic product description aimed at neurodivergent people or sensitive listeners.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "We understand that loud environments can be incredibly overwhelming and sensory-draining. That's why we designed these headphones to provide a soft, comforting sanctuary of silence. Slip them on and give yourself the gentle break your mind deserves.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Persuasive post encouraging other engineers to get cloud certified.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "If you are working in software today, you MUST obtain a foundational cloud certification. It fundamentally changes how you view system architecture and makes you remarkably more competitive in the job market. Stop putting it off and schedule your exam.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a professional product description for premium noise-cancelling headphones.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Engineered for uncompromising acoustic fidelity, our flagship over-ear headphones feature proprietary dual-sensor noise cancellation technology. Designed for enterprise professionals and audiophiles alike, they provide up to 40 hours of uninterrupted playback with sublime ergonomic comfort.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a professional product description for a corporate office chair.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "The Apex Ergonomic Executive Chair is designed to promote structural spinal alignment and reduce musculoskeletal fatigue. Its dynamic lumbar articulation and highly adjustable armrests conform precisely to the user's operational requirements within high-intensity corporate work environments.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "How do you boil an egg?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Just put the eggs in a pot, cover them with cold water, and bring it to a rolling boil. Once it's boiling, take the pot off the heat, cover it, and let it sit for about 10 minutes for a nice hard boil. Run them under cold water right after so they peel easily!",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A humorous breakdown of the 2008 financial crash.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "Banks essentially played hot potato with horrible loans, slapping 'A+' stickers on garbage investments. When the music stopped, nobody wanted the potato, Lehman Brothers tripped and fell out a window, and the entire globe suddenly realized they were broke.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Persuasively summarize the 2008 crisis to argue for tighter regulations.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The 2008 crisis demonstrates exactly why aggressive deregulation is catastrophic. Unchecked greed allowed banks to gamble with the global economy using complex, opaque derivatives. If we do not maintain strict oversight constraints, history will devastatingly repeat itself.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Summarize the movie The Matrix in a casual tone.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "Basically, this hacker guy named Neo finds out his entire life is practically a giant video game controlled by robots. He unplugs, learns kung fu by downloading it into his brain, and fights guys in suits to free humanity. It's awesome.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A funny product description for a comfortable desk chair.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "This chair is so comfortable it might actually become a problem. You might forget to stand up, eat, or interact with society. Your posture will be flawless, but we are not legally responsible if you refuse to ever leave your desk again.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A persuasive product description arguing why you need these headphones.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Stop settling for mediocre audio that lets in every distracting background noise. Your focus and peace of mind are worth the investment. Upgrade to true active noise isolation today, and you will instantly wonder how you ever managed to work without them.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide the specific times needed to boil an egg to different consistencies.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "For a soft-boiled egg with a runny yolk, let the egg sit in the hot water for exactly 6 minutes. For a medium boil with a jammy center, aim for 8 minutes. For a fully firm hard-boiled egg suitable for salads, leave it for 10 to 12 minutes before transferring to cold water.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Compose a strictly formal cold email to a corporate recruiter.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "To Whom It May Concern, please accept this correspondence as a formal expression of my candidacy for the Data Analyst vacancy. My academic credentials, paired with extensive quantitative analysis experience, furnish me with the requisite qualifications for this role. I eagerly anticipate your review of attached materials.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Compose a formal LinkedIn reflection on completing a corporate internship.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "I wish to formally declare the successful completion of my tenure as a Research Intern. The rigorous academic and practical challenges I encountered have fortified my understanding of deep learning architectures. I extend my sincere appreciation to the entire engineering department.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a sarcastic email to a recruiter who sends spam.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi John, thank you so much for offering me a Junior QA role that requires 10 years of experience in a proprietary language that was invented three years ago. I am sure it's the opportunity of a lifetime. Unfortunately, I will have to pass.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a casual cold email to a tech recruiter asking for a chat.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Sarah, I saw your post about the expanding engineering team and wanted to reach out. I'm a backend developer with 3 years of experience in Node.js and I really love what your company is building. Would you be open to a quick 10-minute chat sometime next week? Thanks!",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a quick, casual tweet about pulling a late night coding session with coffee.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "Just brewing my fourth cup of coffee for tonight. There is something strangely peaceful about writing code at 2 AM when the rest of the world is asleep. Hopefully I don't break production tomorrow. \u2615\ud83d\udcbb",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "State the numerical value for the speed of light in a vacuum.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "The physical constant representing the speed of light in a perfect vacuum is formally defined as 299,792,458 meters per second. This fundamental constant underpins the theoretical framework of classical electromagnetism and modern relativistic physics.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An urgent resignation email needing immediate departure.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Dear HR, Due to unforeseen personal circumstances, I must urgently resign from my position effective immediately. I apologize for the abrupt nature of this departure and am unable to provide the standard two-week notice period. I will arrange to return my corporate laptop by tomorrow morning.",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a professional resignation email with a two-week notice.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Dear Management, Please accept this email as formal notification that I am resigning from my position as Marketing Director, effective two weeks from today. I am committed to ensuring a smooth transition of my current projects and will assist in handing over my responsibilities to the rest of the team. Thank you for the opportunities for professional development.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide conversions for the speed of light.",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "The speed of light in a vacuum is 299,792,458 meters per second (m/s). In imperial units, this equates to approximately 186,282 miles per second (mi/s), or about 670,616,629 miles per hour (mph). Light from the Sun takes approximately 8 minutes and 20 seconds to reach Earth.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An urgent-sounding summary outlining the rapid collapse in 2008.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The entire global financial grid almost evaporated in days! Credit markets froze instantly, massive banks began failing back-to-back, and emergency central bank interventions were deployed at the eleventh hour just to stop a total worldwide economic depression!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Post a casual update about finally passing the AWS Solutions Architect exam.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Finally passed my AWS Solutions Architect exam this morning! That test was no joke, but all the weekend studying definitely paid off. Going to celebrate with a huge burger and some video games tonight! \ud83c\udf54\ud83c\udfae",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Informative cold email listing qualifications directly to a recruiter.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Laura, I am a frontend developer reaching out regarding your recent job posting. To summarize my qualifications: I have 4 years of React experience, I am certified in AWS Cloud Practitioner, and I recently contributed to the open-source React-Router project. My resume and GitHub links are attached below for further review.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Compose a highly formal resignation letter to HR.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Please be advised that this correspondence serves as my formal resignation from the capacity of Senior Operations Analyst, effective close of business on October 31st. I express my gratitude for my tenure at the organization and will finalize all outstanding administrative duties prior to my departure.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A persuasive resignation email proposing a consulting arrangement.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Sarah, while I am resigning from my full-time position effective the 20th, I recognize the deep institutional knowledge I hold regarding our legacy database. I propose transitioning to an independent consulting contract at 15 hours a week to ensure the migration project does not stall. Let's discuss this arrangement.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Informative post detailing the best resources to study for a cloud exam.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "For those asking how I passed the AWS Developer certification, here is my study stack: Stephane Maarek's Udemy course for the fundamentals, TutorialsDojo practice exams for the format, and the official AWS whitepapers for edge cases. Dedicate 2 hours a day and you will pass.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Can you help me write a sarcastic LinkedIn post about my internship ending?",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "I am absolutely thrilled to announce that my internship is over, meaning I will no longer be responsible for fixing the legacy training pipelines that broke every Friday at 4 PM. Truly a transformative experience that taught me the incredible value of turning off my laptop.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Informative summary detailing the mechanics of the 2008 crisis.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The crisis functioned through Collateralized Debt Obligations (CDOs). Banks pooled risky adjustable-rate subprime mortgages into tranches and received AAA ratings from agencies. When interest rates rose, adjustable payments skyrocketed, causing mass defaults that rendered the CDOs toxic and worthless.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an enthusiastic LinkedIn post celebrating passing a difficult cert exam.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "WOOHOO!! I PASSED!!! \ud83c\udf89 Passing the Google Cloud Professional Architect exam has been my biggest goal this year and I am incredibly hyped to have finally achieved it! The sky is the limit from here! \u2601\ufe0f\ud83d\ude80",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An urgent email to a recruiter about an expiring offer.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Emily, I am following up regarding my application for the DevSecOps role. I currently have a competing offer that expires in 48 hours, but your company remains my absolute top choice. Could you please let me know if an interview is possible before Wednesday? Thank you!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Urgent post demanding to update your resume after passing a cert.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Attention recruiters: I literally just walked out of the testing center with a passing score on the AWS Security Specialty exam! My resume is officially updated and I am ready to secure your cloud infrastructure TODAY. Let's talk!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Informative resignation email detailing transition steps.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Team, I am resigning effective Friday, the 18th. To ensure a seamless handover, I have documented all my daily workflows in the shared Confluence folder, granted admin access of the CMS to Jessica, and scheduled 1-on-1 handoff meetings with all project stakeholders. Please review the transition doc by Wednesday.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Informative summary explaining the core concept of The Matrix.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "In the world of The Matrix, the year is actually closer to 2199. Humans waged a war against artificial intelligence, scorched the sky to block solar power, and were subsequently enslaved by the machines to serve as a bio-electric power source via a neural-interactive simulation.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Summarize The Matrix in a funny, relatable way.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "Local IT guy hates his job so much that he joins a cyber-cult, learns martial arts in five minutes, and decides to fight sentient computer programs just so he doesn't have to go back to his cubicle. Honestly, a very relatable career pivot.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Why is understanding the speed of light important?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "You must understand the speed of light because it is the fundamental cornerstone of modern physics. Without it, GPS systems would fail, our astronomical models would collapse, and the entire theory of relativity would unravel. It is essential knowledge for comprehending reality.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A persuasive tweet convincing programmers to try Svelte.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "If you are tired of enormous bundle sizes and complex state management, you owe it to yourself to try Svelte. It strips away the unnecessary virtual DOM overhead and lets you write actual HTML again. Give it one weekend and you will be convinced.",
+            "tone": "persuasive",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An enthusiastic summary of the events of the 2008 crisis.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The 2008 crisis was a spectacular chain reaction of epic proportions! A massive bubble in the housing market burst, causing gigantic financial institutions to literally collapse overnight, fundamentally reshaping global economic policies forever! It's one of the most intense financial events in modern history!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Make a funny tweet about developers drinking coffee late at night.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "My blood type is currently 90% cold brew and 10% unresolved git merge conflicts. If I stop typing, I might actually fall asleep on my mechanical keyboard. Send help (or more espresso).",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An urgent, dramatic summary of The Matrix.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "Humanity is literally being harvested as batteries by super-intelligent machines right this second! A small group of rebels has awakened their savior, Neo, and they are engaged in a desperate, high-stakes war to destroy the simulation before everyone perishes!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A funny resignation email to coworkers.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hey folks, the rumors are true: I am finally escaping! My last day is the 12th. Please try not to completely destroy the codebase without my supervision. I expect at least one terrible cake in the breakroom before I leave. Cheers!",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a professional announcement about achieving a new cloud computing certification.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "I am pleased to announce that I have officially earned my AWS Certified Solutions Architect - Associate credential. I look forward to leveraging these advanced cloud architecture principles to design highly available and cost-effective systems for my clients.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write an empathetic tweet for developers working late tonight.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "To all the devs pulling an all-nighter right now to meet a deadline: I see you, and I know how exhausting it is. Please remember to drink some water, stretch your legs, and be kind to yourselves. \u2764\ufe0f",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a professional summary of the film The Matrix.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The Matrix is a sci-fi action film that follows a software developer who discovers that humanity is unknowingly trapped inside a simulated reality created by intelligent machines. He joins a rebellion to dismantle the system and liberate the human race from exploitation.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a casual product description for an ergonomic office chair.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Sitting all day doesn't have to ruin your posture. This chair has awesome lumbar support and breathable mesh so you don't get sweaty during long gaming sessions or work meetings. Honestly, it's just super comfy.",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Quick, how do I boil an egg right now?!",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "Hurry, get a pot and fill it with cold water, put the egg in, and turn the stove on HIGH! As soon as it boils rapidly, pull it off the burner immediately, throw a lid on it, and set a timer for 10 minutes! Don't overcook it!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Informative product description listing chair adjustments.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "This ergonomic model supports up to 300 lbs and features a 4-way adjustable lumbar pad. It includes a seat pan depth slider, 4D adjustable armrests (height, width, depth, and pivot), and a breathable mesh back material that prevents thermal buildup.",
+            "tone": "informative",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Draft a casual LinkedIn post celebrating the end of a machine learning internship.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Can't believe my 12 weeks as an ML intern are already over! I learned so much about deploying models and drank way too much free office coffee. Huge thanks to my manager and the entire team for putting up with my endless questions! \ud83d\ude4c",
+            "tone": "casual",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An enthusiastic product description for amazing headphones.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Get ready to experience music like NEVER before!! \ud83d\ude0d These noise-cancelling headphones deliver the most incredible, explosive bass and crystal-clear highs you have ever heard! Once you put them on, you will completely fall in love with your favorite songs all over again!!",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a highly enthusiastic cold email applying for a role.",
+        "input": "",
+        "output": {
+            "task": "email",
+            "content": "Hi Team!! I am absolutely thrilled to submit my application for the Software Engineer opening! I am a massive fan of your product and have been experimenting with your public API for months. I would be incredibly honored to bring my energetic work ethic and Python skills to your amazing team! \ud83d\ude80",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A funny post about passing a certification by the skin of your teeth.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "Just passed my Cloud Practitioner exam! I'm pretty sure I guessed on the last 15 questions, but a pass is a pass, right? Now I can confidently tell people to 'put it in the cloud' while only vaguely understanding what that actually means. \ud83c\udf29\ufe0f",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "A funny product description for giant noise-cancelling headphones.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Do you despise the sounds of open office plans, crying babies on airplanes, and the concept of human interaction? These massive ear-huggers will actively block out 99% of the universe. Buy them today and embrace the glorious sound of absolutely nothing.",
+            "tone": "humorous",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "How do I boil an egg?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "It's a highly complex scientific procedure that involves putting an egg in water and making the water hot. I know, mind-blowing. Just leave it in boiling water for 10 minutes unless you enjoy eating rubber.",
+            "tone": "sarcastic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a formal catalogue entry for high-end audio headphones.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "The Horizon X-Series Acoustic Headset incorporates active acoustic insulation to drastically attenuate ambient environmental noise. Featuring titanium-plated drivers and plush memory foam ear cushions, this product delivers an unparalleled auditory experience for the discerning consumer.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An empathetic summary focusing on the human impact of the 2008 crisis.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "The 2008 crisis was a tragic period where millions of hardworking families were misled into predatory loans. Through no fault of their own, ordinary people lost their life savings, their homes, and their jobs, facing immense emotional and financial devastation.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Urgent LinkedIn post searching for a full-time role after an internship.",
+        "input": "",
+        "output": {
+            "task": "linkedin_post",
+            "content": "My internship just officially ended, which means I am actively looking for full-time Junior ML Engineer roles! I am ready to start IMMEDIATELY and bring my expertise in PyTorch and MLOps to a fast-paced team. Please DM me or comment if your team is hiring right now!",
+            "tone": "urgent",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Write a professional tweet discussing the reality of late-night software development.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "While consistent sleep schedules are crucial, occasionally late-night coding sessions provide the uninterrupted focus needed to solve complex architectural challenges. Balance is key to long-term productivity in software engineering.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "An empathetic desk chair description for chronic pain sufferers.",
+        "input": "",
+        "output": {
+            "task": "product_description",
+            "content": "Working at a desk when you suffer from chronic back pain is a daily, exhausting struggle. We thoughtfully contoured this chair to relieve pressure off the lower spine and support you gently throughout the day, so you can focus on your work, not your pain.",
+            "tone": "empathetic",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "What is the recommended method for boiling an egg?",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "The optimal method involves submerging eggs in cold water within a saucepan, then bringing the water to a boil over medium-high heat. Upon reaching a boil, remove the pan from the heat source, cover it securely, and allow it to steep for 9 to 12 minutes depending on desired yolk firmness. Prompt chilling in an ice bath terminates the cooking process.",
+            "tone": "professional",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Provide a formal historical summary of the 2008 recession.",
+        "input": "",
+        "output": {
+            "task": "summarization",
+            "content": "Characterized by systemic failures in corporate governance and risk management, the 2008 crisis involved the severe devaluation of mortgage-backed securities. This devaluation compelled aggressive governmental intervention to stabilize failing institutions and mitigate prolonged global economic contraction.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Compose a formal tweet regarding the reliance on caffeine during intensive work.",
+        "input": "",
+        "output": {
+            "task": "tweet",
+            "content": "It is a well-documented phenomenon that technology professionals often rely on caffeine during intensive problem-solving phases. However, maintaining sustainable work habits remains critical for avoiding burnout.",
+            "tone": "formal",
+            "format": "json"
+        }
+    },
+    {
+        "instruction": "Tell me about the speed of light!",
+        "input": "",
+        "output": {
+            "task": "qa",
+            "content": "It is the most mind-blowing speed imaginable!! Light travels at a staggering 186,282 miles every single second! That means light can travel completely around the Earth 7.5 times in just one second! Isn't the universe absolutely incredible?! \ud83c\udf1f\u26a1",
+            "tone": "enthusiastic",
+            "format": "json"
+        }
+    }
+]
