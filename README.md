@@ -20,6 +20,19 @@ It takes **any natural language instruction** and strictly outputs only valid JS
   "format": "json"
 }
 ```
+## Setup Instructions
+
+1. Clone the repo
+git clone https://github.com/USERNAME/slm-json-generator
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Open Qwen_FineTuning_Colab.ipynb in Google Colab
+
+4. Mount Google Drive and update paths in Cell 2
+
+5. Run all cells in order
 
 ## 📊 Evaluation Results
 We evaluated the model on 10 diverse, out-of-distribution prompts (such as tweets, cold emails, plotting logic, etc.) to test robustness and structural adherence.
