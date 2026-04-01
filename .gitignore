@@ -1,6 +1,5 @@
 checkpoint-*/
 models/
-outputs/
 *.zip
 *.bin
 *.safetensors
